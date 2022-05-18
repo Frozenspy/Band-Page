@@ -1,0 +1,30 @@
+
+.images{
+	display: flex;
+    justify-content: space-between;
+}
+
+.dates{
+	background-color: indigo;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Don't edit this*/
+img{
+    width: 150px; 
+    display: block;
+}
